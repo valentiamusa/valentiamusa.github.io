@@ -1,6 +1,15 @@
 .section{
-    background-image: url("image1.jpg");
+    background-image: url("images4.jpg");
+    
 }
 body{
-    background-color: azure;
+    background-color: aquamarine;
 }
+h2{
+    font-family: Roboto;
+}
+ h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+    
+  

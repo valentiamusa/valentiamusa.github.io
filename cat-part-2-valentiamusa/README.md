@@ -15,5 +15,5 @@ Don't forget to add the following specifications to your page:
 
 * Feel free to add any other styling u deem necessary*
 
-Url=
+ 
 
